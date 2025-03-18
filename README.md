@@ -7,7 +7,7 @@ then fetches relevant YouTube tutorials based on the functions found in the code
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/my_app.git
+   git clone https://github.com/Shiv1909/my_app.git
 
 2. Navigate into the directory:
     ```bash
